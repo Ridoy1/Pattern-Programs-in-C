@@ -1,0 +1,7 @@
+Hollow Full Pattern 
+
+    * 
+   * * 
+  *   * 
+ *     * 
+* * * * * 
